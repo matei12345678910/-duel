@@ -1,0 +1,7 @@
+name: MateiDuel
+main: ro.matei.duel.MateiDuel
+version: 1.0
+api-version: 1.21
+commands:
+  duel:
+    description: Sistem de duel 1v1 by Matei
